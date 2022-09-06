@@ -4,7 +4,7 @@ Một tập lệnh Python để DDOS một trang web bằng phương pháp HTTP 
 Tập lệnh này có thể hoạt động cả trên Windows lẫn Android (Termux), dưới đây là hướng dẫn:
 ```
 pip install -r requirements.txt
-python ddos.py
+python run.py
 ```
 # Quan trọng!!!
 Tập lệnh này chỉ dành cho mục đích giáo dục. Tôi không chịu trách nhiệm về thiệt hại mà bạn gây ra khi sử dụng tập lệnh này!
